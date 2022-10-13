@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS sql_lesson;
+-- DROP DATABASE IF EXISTS sql_lesson;
 
-CREATE DATABASE sql_lesson DEFAULT CHARACTER SET UTF8;
+-- CREATE DATABASE sql_lesson DEFAULT CHARACTER SET UTF8;
 
-USE sql_lesson;
+-- USE sql_lesson;
 
 CREATE TABLE `club`
 (
